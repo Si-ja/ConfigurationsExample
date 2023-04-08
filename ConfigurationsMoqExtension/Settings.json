@@ -1,0 +1,15 @@
+﻿{
+  "RandomSettings": {
+    "RandomName": "TestExample",
+    "RandomValue": 42,
+    "RandomAppendix": "None Needed"
+  },
+  "SilentSettings": {
+    "Name": "SilentSettings Example",
+    "RandomBigValue": 999999,
+    "RandomInformation": ""
+  },
+  "MissingSettings": {
+    "None": null
+  }
+}
